@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimal_Shop.Infrastructure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimal_Shop.Web", "Minimal_Shop.Web\Minimal_Shop.Web.csproj", "{76A96BA7-1677-4BC1-9B68-EF15B8894D21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{52C8333F-2544-4C08-8E9A-409E88BE9EA0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,18 +83,6 @@ Global
 		{76A96BA7-1677-4BC1-9B68-EF15B8894D21}.Release|x64.Build.0 = Release|Any CPU
 		{76A96BA7-1677-4BC1-9B68-EF15B8894D21}.Release|x86.ActiveCfg = Release|Any CPU
 		{76A96BA7-1677-4BC1-9B68-EF15B8894D21}.Release|x86.Build.0 = Release|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Debug|x64.Build.0 = Debug|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Debug|x86.Build.0 = Debug|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Release|x64.ActiveCfg = Release|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Release|x64.Build.0 = Release|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Release|x86.ActiveCfg = Release|Any CPU
-		{52C8333F-2544-4C08-8E9A-409E88BE9EA0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
